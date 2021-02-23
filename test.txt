@@ -1,1 +1,2 @@
 this is a text file
+We are going to test the project in few minutes
